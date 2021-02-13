@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Signet.scss"],"names":[],"mappings":"AAAA,IACI,WAAY,CACZ,YAAa","file":"main.e89d351a.chunk.css","sourcesContent":["img {\r\n    width: 200px;\r\n    height: 200px;\r\n}"]}
